@@ -1,5 +1,5 @@
 # Coding Journal
-## Name: Dr. Brown
+## Name: Alex Feldman
 ## Lab: Module 1
 ## Entries:
 ### November 5th, 1955
